@@ -39,6 +39,6 @@ jobs:
         with:
           project: "jesse-boltnew-any-58"
           entrypoint: "https://deno.land/std@0.217.0/http/file_server.ts"
-          root: "root"
+          root: "root directory"
           
           
